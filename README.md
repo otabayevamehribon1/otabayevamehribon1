@@ -1,4 +1,4 @@
-# [Ismingiz] | Dasturchi 🚀
+ | Dasturchi 🚀
 
 ---
 
