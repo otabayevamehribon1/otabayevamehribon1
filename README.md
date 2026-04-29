@@ -1,45 +1,35 @@
-# <p align="center">Salom, men Mehribon! 👋</p>
-
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
-
-### 🛠 Texnologiyalar (Stack):
-<p align="left">
-  <!-- JavaScript -->
-  <img src="https://shields.io" />
-  <!-- Python -->
-  <img src="https://shields.io" />
-  <!-- HTML5 -->
-  <img src="https://shields.io" />
-  <!-- CSS3 -->
-  <img src="https://shields.io" />
-</p>
+# [Ismingiz] | Dasturchi 🚀
 
 ---
 
-### 💻 Nimalar bilan shug'ullanaman?
-- 🐍 **Python** yordamida Backend va Telegram botlar yaratish.
-- ⚡ **JavaScript** va **CSS/HTML** orqali interaktiv veb-saytlar dizayni.
-- 🎨 UI/UX elementlarini kodga ko'chirish.
+### 👨‍💻 Men haqimda
+Dasturlash olamiga qiziquvchi va doimiy o'rganishda bo'lgan mutaxassis. Asosan **Web** va **Backend** yo'nalishlarida tajriba orttirmoqdaman.
+
+- 🌍 Manzil: Xorazm vil. Xonqa tumani
+- 🎓 Ma'lumot: 21-maktab
+- 💼 Hozirda: Loyihalar ustida ishlayapman
 
 ---
 
-### 📈 GitHub Ko'rsatkichlarim:
+### 🛠 Texnik ko'nikmalar
 
-<p align="center">
-  <img width="48%" src="https://vercel.app[USERNAME]&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://vercel.app[USERNAME]&show_icons=true&theme=vision-friendly-dark" />
-</p>
+**🌐 Frontend texnologiyalari:**
+- **HTML5** (Semantik tuzilish, Formlar)
+- **CSS3** (Flexbox, Grid, Animatsiyalar)
+- **JavaScript** (ES6+, DOM Manipulation)
 
-<p align="center">
-  <img src="https://vercel.app[USERNAME]&theme=tokyonight" width="100%" />
-</p>
+**🐍 Backend va Ma'lumotlar bazasi:**
+- **Python** (Django yoki Flask, Scripting)
+- **SQL** (Ma'lumotlar bazasi bilan ishlash)
 
----
+**🔧 Boshqa vositalar:**
+- Git & GitHub (Versiyalarni boshqarish)
+- VS Code (Asosiy ish muhiti)
 
-### 📫 Men bilan bog'laning:
-<p align="left">
-<a href="https://t.me[Sizning_Telegramingiz]" target="blank"><img src="https://shields.io" /></a>
-<a href="mailto:[Sizning_Emailingiz]" target="blank"><img src="https://shields.io" /></a>
-</p>
+
+
+### 📊 GitHub statistikasi (Matnli)
+- 🌱 O'rganishda: Yangi kutubxonalar va frameworklar
+- ✍️ Blog/Qaydlar: [Agar bor bo'lsa link]
+- ⭐ Qiziqishlar: Sun'iy intellekt va Veb xavfsizlik
+
