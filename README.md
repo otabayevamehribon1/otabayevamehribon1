@@ -30,6 +30,5 @@ Dasturlash olamiga qiziquvchi va doimiy o'rganishda bo'lgan mutaxassis. Asosan *
 
 ### 📊 GitHub statistikasi (Matnli)
 - 🌱 O'rganishda: Yangi kutubxonalar va frameworklar
-- ✍️ Blog/Qaydlar: [Agar bor bo'lsa link]
 - ⭐ Qiziqishlar: Sun'iy intellekt va Veb xavfsizlik
 
